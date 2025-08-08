@@ -10,9 +10,10 @@
 ---
 
 ## 🌟 About Me
-- 💻 **Full-stack tinkerer** – JavaScript (Node.js) & Python  
+- 💻 **Full-stack tinkerer** – Python, Node.js, Go, HTML, C++, and more  
 - 🤖 I create **Discord automation, spam & stress-testing tools**  
 - 🎯 Focused on **bots, automation, and custom tool development**  
+- 🌐 Skilled in **web scraping, API integration, and websocket bots**  
 - 🛡 Passionate about **cybersecurity** and **creative coding**  
 - 🎮 Minecraft automation & bot scripting enthusiast  
 
@@ -21,24 +22,42 @@
 ## 🛠 Tech Stack
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Tools:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Web & Networking:**
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+**Databases & Data Tools:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 **Discord Automation Tools** | Custom spam bots, stress testers, and message automation tools | Node.js, Discord.js |
-| 🛡 **Security & Testing Scripts** | Tools for penetration testing & bot stress checks | Python |
+| 🤖 **Discord Automation Tools** | Custom spam bots, stress testers, and message automation tools | Node.js, Discord.js, Python |
+| 🛡 **Security & Testing Scripts** | Tools for penetration testing & bot stress checks | Python, Go |
 | 🎮 **Minecraft Bots** | Auto shop systems, chat control, trading scripts | Mineflayer, JavaScript |
+| 🌐 **WebSocket Bots** | Real-time automation via WebSockets & APIs | Node.js, Socket.IO |
 
 ---
 
@@ -64,7 +83,8 @@
 ---
 
 ## 🎯 Fun Facts
-- ⚡ I can code a bot that **floods a chat in seconds**
+- ⚡ I can code a bot that **floods a chat in seconds**  
+- 🌐 I make **bots that speak WebSocket fluently**  
 - ☕ Coffee is my ultimate coding fuel  
 - 🐍 Sometimes I write Python just to make JavaScript jealous  
 - 💡 “If you can automate it, you should”  
