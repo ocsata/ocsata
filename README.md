@@ -56,10 +56,6 @@
 |---------|-------------|------|
 | 🤖 **Discord Automation Tools** | Custom spam bots, stress testers, and message automation tools | Node.js, Discord.js, Python |
 | 🛡 **Security & Testing Scripts** | Tools for penetration testing & bot stress checks | Python, Go |
-| 🎮 **Minecraft Bots** | Auto shop systems, chat control, trading scripts | Mineflayer, JavaScript |
-| 🌐 **WebSocket Bots** | Real-time automation via WebSockets & APIs | Node.js, Socket.IO |
-
----
 
 ## 📊 Stats & Achievements
 <p align="center">
@@ -82,11 +78,7 @@
 
 ---
 
-## 🎯 Fun Facts
-- ⚡ I can code a bot that **floods a chat in seconds**  
-- 🌐 I make **bots that speak WebSocket fluently**  
-- ☕ Coffee is my ultimate coding fuel  
-- 🐍 Sometimes I write Python just to make JavaScript jealous  
+## 🎯 Fun Fact
 - 💡 “If you can automate it, you should”  
 
 ---
