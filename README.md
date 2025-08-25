@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🚀 Developer | 🎮 Gamer | 🛡 Cybersecurity Enthusiast  
+  🚀 Developer | 🛡 Cybersecurity Enthusiast  
 </p>
 
 ---
