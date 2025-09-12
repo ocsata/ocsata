@@ -86,7 +86,7 @@
 ## 📫 Connect
 <p align="center">
 <a href="https://discord.com/users/637389740936790099"><img src="https://img.shields.io/badge/Discord-dan.ye-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:oscataxe@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/ocsata"><img src="https://img.shields.io/badge/GitHub-ocsata-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
